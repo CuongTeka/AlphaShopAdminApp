@@ -10,8 +10,11 @@ for study purpose
 ## LẤY SOURCE CODE VỀ LẦN ĐẦU
 
 Bước 1: Shift + chuột phải tại folder mới tạo riêng cho project
+
 Bước 2: Chọn "**Git Bash Here**" và sau đó gõ "**git init**" rồi enter
+
 Bước 3: mở cmd lên ngay lại folder đấy, gõ lệnh "**git remote add origin https://github.com/CuongTeka/AlphaShopAdminApp.git**" để xác định respositories
+
 Bước 4: sử dụng lệnh "**git pull**" để lấy code về
 
 ***
