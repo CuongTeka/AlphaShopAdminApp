@@ -1,0 +1,4 @@
+#Sat May 11 21:59:58 ICT 2024
+base.0=C\:\\Users\\Cuong\\Desktop\\APP_KHOALUAN\\khoaluanshop\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
